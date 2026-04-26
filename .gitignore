@@ -1,0 +1,15 @@
+# Ignore everything in root
+/*
+!v3/
+!README.md
+!/.gitignore
+
+# Keep v3 folder
+v3/*
+!v3/index.html
+!v3/img/
+v3/img/*
+!v3/img/logo.png
+!v3/img/生成生活照.png
+!v3/img/生成生活照 (1).png
+!v3/img/生成生活照 (2).png
